@@ -1,1 +1,4 @@
 Data[[:space:]]Files/faers_ascii_2025q1/ASCII/REAC25Q1.txt filter=lfs diff=lfs merge=lfs -text
+Data[[:space:]]Files/faers_ascii_2025q1/ASCII/DRUG25Q1.txt filter=lfs diff=lfs merge=lfs -text
+Data[[:space:]]Files/faers_ascii_2025q1/ASCII/DEMO25Q1.txt filter=lfs diff=lfs merge=lfs -text
+Data[[:space:]]Files/faers_ascii_2025q1/ASCII/INDI25Q1.txt filter=lfs diff=lfs merge=lfs -text
