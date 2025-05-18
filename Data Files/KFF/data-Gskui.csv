@@ -1,0 +1,14 @@
+﻿X.1,"Yes, Medicare should cover the cost","No, Medicare should not cover the cost"
+Total,61,38
+<b> Age</b>,,
+18-29,64,35
+30-49,65,35
+50-64,56,43
+65+,58,42
+<b> Party ID</b>,,
+Democrat,66,33
+Independent,63,37
+Republican,55,45
+<b>GLP-1 use</b>,,
+Has ever used GLP-1s,71,28
+Has never used GLP-1s,60,40

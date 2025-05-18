@@ -1,0 +1,15 @@
+﻿X.1,A lot,Some,A little,Nothing at all
+Total,32,27,23,18
+<b> Age</b>,,,,
+18-29,17,28,28,27
+30-49,32,29,21,19
+50-64,41,21,24,13
+65+,38,30,20,12
+<b> Household income</b>,,,,
+"Less than $40,000",23,21,28,27
+"$40,000-$89,999",30,29,24,17
+"$90,000 or more",45,31,17,7
+<b>Among those who say a doctor has told them they…</b>,,,,
+Have diabetes,45,23,22,10
+Have heart disease,41,21,23,15
+Are overweight or obese,42,29,17,12
